@@ -1,4 +1,5 @@
 gbc
 ===
 
-This is Gamebook Converter by Ruby (supported multi output format)
+ゲームブック作成用のコンバータです。
+複数のフォーマットに対応可能です(単一テキストファイルのみ出力できます)
